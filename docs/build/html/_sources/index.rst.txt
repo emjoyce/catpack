@@ -1,0 +1,25 @@
+Welcome to catpack's documentation!
+===================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+   includeme
+   guide/loading
+   guide/visualization
+   guide/filtering
+   guide/skeletons
+   guide/repair
+   guide/analysis
+   
+
+Guide
+^^^^^
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
